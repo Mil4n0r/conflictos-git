@@ -1,1 +1,13 @@
-# conflictos-git
+# Enrique Moreno Carmona
+
+## Fecha: 06/06/2022
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec turpis suscipit, bibendum nunc sit amet, ullamcorper felis. Aliquam eu dignissim sem, a efficitur lorem. Etiam nec imperdiet neque, sit amet consequat dolor. Sed ac urna cursus, eleifend mauris ac, aliquam erat. Praesent malesuada posuere hendrerit. Donec pharetra sagittis sapien nec volutpat. Aenean pellentesque risus nunc, vitae viverra risus mollis quis.
+
+In sit amet purus lacinia nibh facilisis feugiat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam tempor convallis quam, id tincidunt nunc tempus et. Aenean ac mi nec lectus maximus volutpat faucibus sit amet enim. Morbi vitae dui nec urna hendrerit feugiat. Phasellus placerat id ipsum a accumsan. Ut sagittis nisl tincidunt justo tincidunt, eu dapibus libero ullamcorper. Nulla facilisi. Nulla et justo vel urna accumsan rutrum non quis lacus. Ut neque lorem, aliquam sed leo non, vestibulum vestibulum dolor. Nullam lacinia vehicula pellentesque. Etiam semper auctor lectus at congue.
+
+Nunc rhoncus tristique vehicula. Integer tempor tristique ligula eget accumsan. Fusce sollicitudin tellus eget velit consectetur cursus. Phasellus tortor risus, volutpat eu tristique vel, rutrum quis ipsum. Suspendisse potenti. Vivamus maximus lobortis mi id hendrerit. Phasellus rutrum urna sit amet elit porta congue. Vivamus vel vulputate enim. Suspendisse potenti. Phasellus congue est purus, vitae posuere nibh placerat eu. In viverra sollicitudin metus quis interdum. Nam varius erat nibh, nec fermentum elit tincidunt ut.
+
+Nulla tempus euismod risus. Donec posuere, erat in vulputate vulputate, tellus eros mollis elit, quis tincidunt sapien elit sit amet quam. Nam fermentum massa vitae imperdiet finibus. Phasellus sed nisi in est pretium aliquet in vel tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam condimentum eleifend libero id dignissim. Nam iaculis est at fermentum bibendum.
+
+Duis vitae imperdiet quam, non tempus justo. Fusce efficitur, risus sit amet porttitor rhoncus, libero diam egestas orci, a efficitur elit neque ac tortor. Aenean arcu elit, pretium sit amet condimentum in, lacinia in nunc. Nulla laoreet massa eget diam maximus tempor. Ut augue massa, posuere id quam nec, pulvinar ullamcorper est. Sed ultricies libero a neque faucibus, eu consectetur tortor imperdiet. Donec nisi metus, scelerisque eu ante et, aliquet suscipit velit. Mauris placerat neque ac justo congue aliquam. Quisque posuere sem at mauris bibendum porttitor a nec nisl. Proin maximus dictum imperdiet. Cras cursus nulla a orci porttitor, eget laoreet risus condimentum. Vestibulum eget neque nisi. Cras in leo lorem.
